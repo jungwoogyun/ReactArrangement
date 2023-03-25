@@ -1,7 +1,9 @@
-## React Basic
-### React Object / ReactDOM Object 확인
-### Component / Props
-### React.createElement() / ReactDOM.render()
-
-
-## React 
+## 01
+1. React Object / ReactDOM Object 확인
+2. Component / Props
+3. React.createElement() / ReactDOM.render()
+============================================
+## 02 
+1. Class Component / Function Component
+2. JSX
+3. props / state
